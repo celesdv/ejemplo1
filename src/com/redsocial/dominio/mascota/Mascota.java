@@ -8,6 +8,7 @@ public class Mascota {
     private String apodo;
     private String raza;
     private Usuario usuario;
+    private String nuevo;
 
     public Mascota() {
     }
